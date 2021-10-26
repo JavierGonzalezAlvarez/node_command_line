@@ -12,6 +12,11 @@ command.js
 # version in command-line
 $ node command.js --version
 
-# get file in command-line
+# get json file in command-line
 $ node command.js get api
 
+# run server
+$ npm run start
+
+# swagger
+http://localhost:3001/api/docs/
